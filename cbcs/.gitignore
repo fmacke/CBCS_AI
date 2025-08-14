@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/rag-backend/venv
+/rag-backend/__pycache__
 /.pnp
 .pnp.js
 
